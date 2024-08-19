@@ -132,7 +132,7 @@ const NavBar: React.FC = () => {
             </a>
             <a
               href="/signup"
-              className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+              className="px-4 py-2 bg-[#20c997] text-white rounded hover:bg-[#dc3545]"
             >
               Sign Up
             </a>
